@@ -50,8 +50,11 @@ Si hay disponible un archivo de solución, aparecerá en el menú emergente "Sol
 
 ## Construido con 🛠️
 LINQ https://www.completecsharptutorial.com/mvc-articles/add-missing-linq-sql-class-vs-2017-2019.php
+
 .NetFramwework 4.7.2
+
 MVC Visual Studio
+
 SQL Server 2017
 
 ## Autores ✒️
