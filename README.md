@@ -1,5 +1,6 @@
 # Proyecto-Analisis MYF
 
+La creación del Proyecto comienza de la necesidad de la empresa el tener dificultad para realizar sus pedidos con los clientes, ya que, en la actualidad, la empresa maneja sus pedidos mediante mensajes y se les dificulta el llevar un control de todas sus ventas ya que no cuentan con un sistema de gestión de inventario. Con este proyecto se pretende facilitar los pedidos, inventario y estadísticas con respecto a ventas de la empresa. 
 
 
 ## Comenzando 🚀
